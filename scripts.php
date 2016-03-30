@@ -1,0 +1,26 @@
+<script src="bower_components/angular/angular.min.js"></script>
+<script src="bower_components/hammer.js/hammer.min.js"></script>
+<script src="bower_components/angular-aria/angular-aria.min.js"></script>
+<script src="bower_components/angular-animate/angular-animate.min.js"></script>
+<script src="bower_components/angular-material/angular-material.min.js"></script>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/d3/d3.js"></script>
+<script src="bower_components/nvd3/build/nv.d3.js"></script> <!-- or use another assembly -->
+<script src="bower_components/Chart.js/Chart.min.js"></script>
+<script src="bower_components/angular-nvd3/dist/angular-nvd3.js"></script>
+<script src="bower_components/angular-chart.js/dist/angular-chart.js"></script>
+
+<script src="js/app.js"></script>
+<script src="js/controllers/perfilController.js"></script>
+<script src="js/modernizr.custom.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/funciones.js"></script>
+<script src="js/moebio_framework.js"></script>
+<!--<script src="js/network.js"></script>-->
+<!--<script src="js/highmaps.js"></script>-->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-more.js"></script>
+<script src="http://code.highcharts.com/maps/modules/map.js"></script>
+<!--<script src="https://code.highcharts.com/maps/highmaps.js"></script>-->
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/countries/mx/mx-all.js"></script>
