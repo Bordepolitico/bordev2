@@ -1,0 +1,508 @@
+23.09.2015 - ver 5.6.1
+	- fixed blank screen error on some hosting accounts
+	- fixed missing logo after update
+
+22.09.2015 -ver 5.6 - major update
+	- Visual Composer updated to version 4.7.2
+	- Layer Slider updated to version 5.6.2
+	- Revolution Slider updated to version 5.0.8.5
+	- WooCommerce Informational Icons fixed - fontawesome icons are now correctly rendering
+	- Updated WooCommerce templates to latest version
+	- added Equal Height Columns option to be set inside Row Elements
+	- added Vertical Positioning option for elements inside Equal Height Columns
+	- added Custom style option for Contact Form 7 element - you can now customize the look of a contact form to the maximum
+	- added Pricing Column element with customization options
+	- added employee element Custom style - you can now customize the employee element to the maximum
+	- added option for employee element to also have a custom link that will be rendered with the image of the employee/team member
+	- added CSS Button Classes for Menu Items - you can use them to create buttons as menu items
+	- added functionality to render background image for Wide and Extra Wide layouts. Only Boxed layout was supported until now
+	- added option for Logo to have a custom URL.
+	- added Page Break functionality and button for Posts/Pages
+	- added Top Menu inside the Top Bar - you must first create a menu under Appearance -> Menus -> Top Menu
+	- added option to select what the Top Bar Left Content will show - possible options are: Social Links, Contact Info, Top Menu or Leave Empty
+	- added option to select what the Top Bar Right Content will show - possible options are: Social Links, Contact Info, Top Menu or Leave Empty
+	- added customization options for Top Bar Menu: link color, link color on hover, separator enable, separator color, separator symbol
+	- added option to select what menu to use on each page, post, portfolio item: you can select any menu you want to be used as the Primary Menu and as the Top menu
+	- added option to select what menu to use for One Page Navigation pages - useful if you have one or more One Page Navigation pages.
+	- added option to select the width of the Header - use extended header to make your header full width
+	- added option to control Header transparency - you can control in % the transparency of the header 
+	- added option to enable/disable Header area completely - useful for under construction pages
+	- added option to enable/disable Footer area completely - useful for under construction pages
+	- added option for custom title text - if any text entered, it will be used as the Title
+	- added option for subheading text - useful if you want to add more text below your title
+	- added Font Size option for Title
+	- added Font Size option for SubHeading
+	- added Font Size option for Breadcrumb
+	- added option to enter a fixed height for the Page Title & Breadcrumb Area - useful when creating Hero header areas
+	- added padding top option for the Page title & Breadcrumb Area - useful when creating Hero header areas and using Transparent Headers
+	- added option to control the background color of the Page Title
+	- added option to control the text color of the Page Title and the SubHeading text
+	- added option to control the text color of the Breadcrumb 
+	- added option to upload a custom image that will be used as a background image for the Page Title & Breadcrumb area
+	- added mask color option that will be placed above the background image of the Page Title & Breadcrumb area
+	- added mask transparency option
+	- added FullScreen Background Image option for the Page Title & Breadcrumb area
+	- added Parallax option for the Background Image used on the Page Title & Breadcrumb area	
+	- added option to enable/disable widgets in footer section
+	- added Footer Menu option under Appearance -> Menus -> Footer Menu
+	- added option to select what wil be displayed in the Right Section of the Footer area: Social Links, Footer Menu or Leave empty
+	- added color options for Footer Menu: link color, link color on hover
+	- added option to control Font Size for Top Bar Menu in Theme Options -> Typography
+	- added option to control Font Size for Page Title in Theme Options -> Typography
+	- added option to control Font Size for Title SubHeading in Theme Options -> Typography
+	- added option to skip first Featured Image set for Posts and Portfolio item
+	- added option to change the default text used for Client Name in Theme Options -> Portfolio
+	- added option to change the default text used for Skills in Theme Options -> Portfolio
+	- added option to change the default text used for Category in Theme Options -> Portfolio
+	- added option to change the default text used for Website in Theme Options -> Portfolio
+	- fixed related portfolio items not showing correctly for desktop and mobile devices
+	- fixd portfolio posts without images to not display picture navigation arrows
+	- fixed related posts not showing correctly for desktop and mobile devices
+	- fixed Button element Custom Style in FrontEnd Editor
+	- fixed youtube video background not showing up placeholder image
+
+
+27.08.2015 - ver 5.5.9
+	- fixed Sticky Menu for Mobile Devices
+
+27.08.2015 - ver 5.5.8
+	- font awesome updated to version 4.4.0
+	- added option for Sticky menu for Mobile Devices
+	- Fixed FlexSlider not showing navigation arrows for mobile devices
+	- LayerSlider update to version 5.0.1
+	- fixed logo upload for https enabled sites
+	- added option for Title and Breadcrumb global disable
+	- Portfolio Details disable fix for Full Width layout
+	- Widgets updated to WordPress 4.3
+	- Portfolio Flat fixed for Mobile devices
+	- Maximum numbers of Featured Images increased to 20
+	- Fixed Flat Portfolio Custom Linking
+	- Fixed Full Height row for Front End Visual Composer
+	- Product Feature added Exctra large option
+	- IMPORTANT: Added Button Customization - you can now select individual background color, text color, border color for both normal and hover state for each button!
+	- Row element can now align inside elements - left, center, right
+	- Buttons can now be added as inline buttons
+
+
+10.08.2015 - ver 5.5.7
+	- updated WooCommerce Template Files
+
+07.08.2015 - ver 5.5.6
+	- updated Visual Composer to version 4.6.2
+	- new automatic update api implemented - faster more secure updates from now on
+	- featured services can now disable white circle for each element individually
+	- featured services now accept font icons
+	- fixed product feature missing Title font color and Title font size
+	- flat portfolio background color fix
+	- updated translation file
+	- added Normal No Padding option for Row element layout
+	
+
+21.07.2016 - ver 5.5.5
+	- updated Visual Composer to version 4.6.1
+	- updated LayerSlider to version 5.5.0
+	- added extra class name to all visual composer elements
+	- added option for search results filtering - pages, posts, portfolio items
+	- fixed fontawesome woff2 file missing
+	- added back Creativo Custom Widgets to Visual Composer elements
+	- fixed Menu having search disabled rendering correctly
+
+02.07.2015 - ver 5.5.4
+	- fixed logo disappearing when Sticky header active.
+
+22.06.2015 - ver 5.5.3
+	- Updated Visual Composer to version 4.5.3
+	- Added Custom Logo option - when editing/creating page you can specify a custom logo for Transparent Header
+
+15.06.2015 - ver 5.5.2
+	- Updated Revolution Slider to version 4.6.93
+	- Updated layerSlider to version 5.4 in functions.php
+	- Updated WooCommerce Templates 
+	- Updated Testimonials element - when there's no image set, show testimonial without any image
+	- Updated Boxed layout - added option to switch between 960px and 1160px
+
+02.06.2015 - ver 5.5.1
+	- Updated Revolution Slider to version 4.6.9.3
+	- Fixed Employee element - when no Link is used for Social Profiles, they will not be outputed anymore
+
+29.05.2015 - ver 5.5 - important update
+	- Visual Composer updated to version 4.5.2
+	- JS minification - all major js files are now integrated into one file
+	- CSS minification - all major css files are now integrated into one file
+	- Removed deprecated css files
+	- Breadcrumb NavXT plugin removed. Internal breadcrumb function created.
+	- woocommerce quantity increment fixed - external plugin removed.
+	- Fixed OWL Carousel links for Image issue
+	- Fixed Custom Menu disappearing on theme update
+	- Added Header Menu Border Color Option
+	- Fixed elements that were not updating color based on Theme Options selection
+	- Cleaned header for deprecated js scripts
+	- Fixed Buttons - now displaying correct style for Apple Devices
+	- Improved Page Title option for page, posts and portfolio
+	- Fixed theme errors when Visual Composer is disabled
+	- Multiple Sidebar error notice fix
+	- One Column Portfolio hover color fixed
+	- Added Typography section under Theme Options 
+	- Added Custom Font upload option
+	- Google Fonts can now be previewed upon selection
+	- Added option for Google Character Sets - this will reduce page load time
+	- Added option for Google Fonts Weight - this will reduce page load time
+	- Added Headings font size options - H1, H2, H3, H4, H5 and H6
+	- Google Fonts rendering in front end improved - reducing page load time
+	- Theme Options will now be minified upon rendering - reducing page load time 
+
+28.05.2015 - ver 5.4.5
+	- major api update
+	- preparing for version 5.5
+
+
+18.05.2015 - ver 5.4.4
+	- updated Visual Composer to version 5.4.4
+	- added conditional statement for resize image class when Visual Composer is inactive
+	- youtube videos for portfolio items will no longer show Youtube related videos
+
+18.05.2015 - ver 5.4.3
+	- fixed Visual Composer version	
+
+15.05.2015 - ver 5.4.2
+	- Header Search initialization fixed
+	- Menu fixed - auto width added and fixed padding
+	- owl carousel element fixed
+	- added option to change the color for the Main Menu top border
+	- fixed elements that were not inheriting the color changed in the Theme Options
+	- minified css files - less css files used in the theme for better performance 
+	- minified js files
+	- minified theme options styles - now the theme options styles are being rendered in a separate file, minified before added to the header area.
+
+08.05.2015 - ver 5.4.1
+	- Fixed Custom Menus not showing up
+	- Updated LayerSlider to version 5.4
+	- Updated Revolution Slider to version 4.6.9.3
+
+06.05.2015 - ver 5.4
+	- Updated Visual Composer to version 4.5.1
+	- Updated WooCommerce Template Files
+	- Portfolio Page Templates can now choose the style to use: Flat or 3D
+	- Fixed URL for buttons inside Visual Composer
+	- Added Header Search functionality and design
+	- Revolution Slider plugin updated to 4.5.9.2
+	- Counter description color fix
+
+23.04.2015 - ver 5.3.5
+	- Updated Visual Composer to version 4.4.4
+	- Updated WooCommerce Template files
+
+14.04.2015 - ver 5.3.4
+	- Fixed One Page Menu initialization
+	- Added Title Font Size for Product Feature
+	- Added Title Font Color for Product Feature
+
+13.04.2015 - ver 5.3.3
+	- Added One Page Navigation page template
+	- Added One Page Navigation Menu location
+	- Added option to enable/disable comments on the Default Page template
+	- Added option to enable/disable shadow for the header area
+	- Added option to control the Header background transparency
+	- Added option for FullScreen Row with vertical centering content
+
+06.04.2015 - ver 5.3.2
+	- Fixed Home Page issue after Import Templates process
+	- Fixed Default Page with text being chopped when VC active
+
+02.04.2015 - ver 5.3.1
+	- Fixed Accordion Element Css
+	- Added One Click Demo Data Install functionality
+
+30.03.2015 - ver 5.3
+	- Fixed Menu Indicator option
+	- Added option to keep old Margin and Padding of the Row Element from older versions
+	- Updated Fontawesome to latest version
+	- TGM Plugin fix for plugins that require updates
+
+23.03.2015 - ver 5.2 - important update
+	- Updated Visual Composer to version 4.4.3
+	- Product feature can now accept Font Icons
+	- Product Feature now has multiple styling option
+	- Added MegaMenu for Creativo 
+	- Added MegaMenu styling option
+	- Added HTML5 video option
+	- Added Parallax Background option for Row elements
+	- Added Testimonial carousel and testimonial post type
+	- Added Clients carousel and clients post type 
+	- Added Owl Carousel element for Visual Composer
+	- Added Counter element for Visual Composer
+	- Added Team Member element for Visual Composer
+	- Added Page animation option
+	- Added Transparent Header option
+	- Added option to disable Top Bar for individual pages/posts/portfolio items
+	- Added Flat Portfolio element for Visual Composer
+	- Added Separator2 element for Visual Composer
+
+19.03.2015 - ver 5.1.1 
+	- Updated WooCommerce templates
+	- Fixed JetPack issue when Extra Sidebar Widgets module is active
+
+12.02.2015 - ver 5.0.13
+	- Portfolio element and Portfolio Page Template now rendering correctly on Extra Wide Layout
+	- Added Permanent footer feature - when no content on page, the footer will always be positioned at the bottom
+	- Added more social media options - StumbleUpon, Vimeo, SoundCloud and Xing
+	- Default page template can now disable Sidebar and become will width
+	- Added option to change the default Portfolio slug in Theme Options -> Portfolio
+	- Pie Chart element fixed
+	- WooCommerce functionality updated to 2.3
+	- WooCommerce Product Quantity Fixed
+
+16.12.2014 - ver 5.0.12
+	-updated Revolution Slider to version 4.6.5
+
+25.11.2014 - ver 5.0.11
+	- Fixed Featured Services view more link
+
+07.11.2014 - ver 5.0.10
+	- Fixed button color on Portfolio One Page
+	- Added title over WooCommerce Pages
+	- Fixed sidebar not appearing on WooCommerce Category pages
+
+06.11.2014 - ver 5.0.9
+	- Fixed buttons having same color issue
+	- Fixed multiple thumbnails on WooCommerce single page
+
+05.11.2014 - ver 5.0.8
+	- Fixed Prev/Next text
+	- Fixed Call to Action on WooCommerce Shop pages
+	- Fixed Color Scheme change in Admin - selecting the proper color now updates all settings in Theme Options
+	- Added WooCommerce Settings in Theme Options Area
+		- WooCommerce Enable/Disable Sidebar
+		- WooCommerce Sidebar Select 
+		- WooCommerce Sidebar Position
+	- WooCommerce Shoping pages completly redesigned - shop page, single product page, my account page, cart page, woocommerce sidebars, checkout page, thank you page, view orders page, change address page, etc
+	- created responsive woocoomerce shop
+
+28.10.2014 - ver 5.0.7
+	- fixed link on Product Feature
+
+27.10.2014 - ver 5.0.6
+	- added small border for responsinve menu
+	- fixed flexslider testimonial padding and list style  
+
+17.10.2014 - ver 5.0.6
+	- fixed prev/next navigatio on single post and single portfolio post
+	- fixed responsiveness off issue
+	- fixed sidebar title headings - now renders correct font family selected in theme options
+	- single post share icons fixed
+	- responsive menu now hides on screen resize - even if you have it open
+
+16.10.2014 - ver 5.0.5 
+	- fixed responsiveness not rendering on Small Screen Devices
+
+15.10.2014 - ver 5.0.4
+	- fixed responsive menu issue	
+
+14.10.2014 - ver 5.0.3
+	- header menu fixed - for modern style
+	- header menu responsiveness improved - new style
+	- breadcrumb section now appears below title
+	- search box now appears to the right of the breadcrumb and title
+	- changed button design
+	- changed call to action design
+	- changed progress bar design
+	- changed testimonials - now you can navigate left/right inside testimonials
+	- changed accordion and toggles
+	- changed tour - now working correctly in responsive mode
+	- changed Single Portfolio design
+	- changed One Column Portfolio design
+	- fixed Custom Sidebar design - split line was removed
+
+06.10.2014 - ver 5.0.2 
+	- fixed menu loading the correct google font selection
+	- added option for New Menu vs Old Menu selection - allows you to switch to the Creativo 4.0 menu design 
+	- added option for background menu - should be used with Old Menu version
+	- fixed social icons still using old background images from version 4.0
+	- fixed Modern style issues - sticky header now working correctly
+	- fixed responsive menu when Modern style is used
+	- fixed Html code not rendering when using Modern style is used
+
+01.10.2014 - ver 5.0 - MAJOR UPDATE
+	- SOcial Icons are now using Fontello icons - font generated icons
+	- contact info on top bar changed to use Fontello icons
+	- Menu changed completely - better design and functionality
+	- Added Sticky Header Feature for Header Area
+	- Header area now has shadow effect
+	- Responsive menu improved
+	- Row element can now have background images
+	- Row element can now have borders
+	- Improved overall responsiveness	
+	- Created a new Front page slider - available for import under LayerSlider WP
+	- Changed Twitter Widget - now using Fontello Icons for better design
+	- Changed Contact Us Widget - now using Fontello Icons
+	- Changed Social Icons widget - now using Fontello Icons
+	- Changed blockquote element
+	- Changed Popular / Recent posts widget
+	- Added new VC element: Product Feature
+	- Separator element can now add padding top and padding bottom to create more space
+	- Separator element added Blank option - generate a blank separator 
+	- Featured Services can now have View More link
+	- Changed Buttons design
+	- Added Button design for default style under Theme Options -> VC Elements -> Button default
+	- changed Posts Grid element - added date icon, changed component alignment and improved Hover effect
+	- Changed 3D Portfolio element - title and categories are now listed below portfolio image. Also improved Hover effect
+	- Changed Testimonials element
+	- Toggle element changed design
+	- Accordion element changed design
+	- Tabs element changed design
+	- TOur element changed design
+	- Call to Action element redesigned
+	- Footer area redesigned	-
+	- Fixed default Unordered Bullet List and Ordered Lists: UL and OL 
+	- Changed and Improved Blog Post page templates
+	- Changed and Improved Single Blog Post page
+	- Changed Commenting Area on Blog posts
+	- Changed Share Article area on Single Blog posts
+	- Blog post images hover effect no longer using static images - switched to CSS instead	
+	- Added fix for page/post images - now your content images are fully responsive on mobile devices
+	- Added Padding Top and Padding Bottom for Logo on Theme Options -> Logo
+	- Added Font Family selection of Sidebar Headings under Theme Options -> Basic Design
+	- Added Sidebar Heading Font Size option under Theme Options -> Basic Design
+	- Changed Link color - you now have Link Color on Hover option to use under Theme Options -> Basic Design
+	- Added option Social Icons Color - you can now set the actual color for all the Social Icons under Theme Options -> Top Bar
+	- Changed Call to Action button style options under Theme Options -> Call to Action
+
+04.09.2014 - ver 4.0.12.11
+	- Updated Revolution Slider plugin to version: 4.6
+	- Updated LayerSlider plugin to version 5.2.1
+	- Updated Breadcrbum NavXT plugin 
+	- Fixed Portfolio Custom Link - self opening link now open links in same window
+	- Updated Google Font List - added 130 Google Fonts to choose from	
+
+14.08.2014 - ver 4.0.12.10
+	- Added Custom Link option for Portfolio Items - Portfolio items can now link to custom pages or the default Portfolio pages.
+	- Added Instagram Social Media Option
+	- Added translation to Social Items on Top Bar
+	- Added Background Color Option 
+	- Added Inner Background Color Option
+	- Fixed 3D Portfolio element - One Column showing the correct button css
+	- Updated LayerSlider to version 5.1.2
+	- Fixed Sub menu items Background Color and Text color on Hover stage
+
+1.07.2014 - ver 4.0.12.9
+	- Fixed Flickr Widget not working
+	- Google Analytics moved to Header
+	- Changed Shortcodes tab to VC elements in Theme Options
+	- Added Font size option for Box Title element
+	- Added Position option for Box Title element
+	- Fixed Call to Action box on Default page template
+
+27.06.2014 - ver 4.0.12.8
+	- Added option to change SubMenu items background color
+	- Added option to change SubMenu items text color
+	- Added option to change SubMenu items text color on hover
+	- Added Tagline Option - enable/disable - works only for Text Logo
+	- Added Tagline Font Size option
+	- Added Tagline Color option
+	- Updated Revolution Slider to version 4.5.6
+	- Updated Breadcrumb NavXT to latest version
+	- Added Call to Action Text color option on both default and hover state
+	- Added option to enable/disable uppercase text in Header Menu
+	- Added option to enable/disable SubMenus indicator - the + sign
+	- Added Date to archive pages, not just single post pages
+	- Added option to select what post archives will show: full post content or post excerpt
+
+18.06.2014 - ver 4.0.12.6
+	- Updated Revolution Slider to version 4.5.4
+
+12.06.2014 - ver 4.0.12.6
+	- Updated Revolution Slider to version 4.5.2
+
+11.05.2014 - ver 4.0.12.6
+	- Fixed scroll entire page to right when using Flexslider
+	- Call to Action section disabled by default
+	- Fixed View More button for One Column Portfolio page template
+	- Increased Portfolio Item Count max value from 30 to 100 - you can now show all your portfolio items on one page
+	- Added option to change Project Details Text in Theme Options
+	- Added option to change Project Description Text in Theme Options
+	- Updated Revolution Slider to version 4.3.8
+
+23.04.2014 - ver 4.0.12.5
+	- Fixed title issues - Convert to new version error is now fixed - thank you Sian for reporting that issue. 
+	- Updated Revolution Slider to version 4.3.6
+
+18.04.2014 - ver 4.0.12.4
+	- Fixed multiple Text Blocks Issue on same page 
+
+17.04.2014 - ver 4.0.12.3
+	- Fixed White screen when adding/editing a Text Block element
+	- Fixed Pinterest icon not showing up on Header
+	- Added option for Single Image element to open in new window/same window.
+	- Social Media Profiles on Widget will open in a new window
+
+21.03.2014 - ver 4.0.12
+	- Added Text Logo - if no logo image is used, text logo will be displayed - Site Name
+	- Added Text Logo Options - you can set the color of the Text Logo
+	- Added Responsiveness Option - you can now turn on/off responsiveness
+	- Fixed Colors -> Footer Widget Link Color field - now it updates based on the Predefined Color Scheme selection/
+	- Added Top Bar Option - enable/disable top bar - will automatically add a bar above the header
+		- Added option to customize Top Bar - background, border, elements opacity
+		- Added option to add email and phone to Top Bar
+		- Added option to customize the Phone and Email on Top Bar - text color, link color, separator color
+		- Added option for icons - you can select between light/dark scheme for the icons
+	- Added Tap to Call button - will be displayed only for mobile devices
+	- Added Social Media Icons on Top Bar
+	- Changed Social Media Icons - header / footer display
+	- Added Pinterest Icon - with profile link
+	- Added Flickr Icon - with profile link
+	- Added Behance Icon - with profile link
+	- Added Dribble Icon - with profile link
+	- 11 Major Social Media profiles links can now be displayed
+	- Added Header Style options - you can now choose between 2 styles - for the second style, the menu will be placed below the header
+	- Added Header HTML Code - only works for Modern Header style - can be useful for displaying banners in the header area
+	- Added Back to Top button
+	- Added Call to Action bar - allows you to display a Call to Action bar on all your pages
+	- Added placement option for Call to Action bar - above or below the widgets area
+	- Updated training videos with narrated training videos
+	- Updated Layer Slider to version 5.1.1 - please backup your curent LayerSlider WP sliders and then delete the plugin from PLugins page. The theme will automatically ask you to install the latest version.
+	- Updated Revolution Slider to version 4.3.1 - please backup your curent Revolution sliders and then delete the plugin from PLugins page. The theme will automatically ask you to install the latest version.
+
+05.03.2014 - ver 4.0.11
+	- Fixed search on WooCommerce
+	- Added Force Logo Resize option
+	- Added option to upload custom background for header
+	- Added option to change the header - to center all elements inside
+	- Added option for Menu background color
+	- Current pages are now highlated in Menu, if active
+	- Added option to change the Font Size for Menu
+	- Added option to change/choose the Font Family for Menu
+	- Contact Map is now full width - for Contact Us template
+	- Added option for Featured Service shortcode, to hide the White Circle
+	- Added option to select a custom image for the Footer Copyright 
+	- Added option to change the text color of the Footer Copyright
+	- Added option to change the link color of the Footer Copyright
+	- Updated Training videos - narrated Videos are now available
+	- Fixed extra padding issue on row settings
+
+03.02.2014 - ver 4.0.10.9
+	- Fixed archive and index files
+	- Fixed Feature services link - when set to open in new window now works
+	- Fixed Facebook sharer button - no longer displays blank page
+	- Optimized Image Sizes
+	- Updated Premium Plugins
+	- Added Youtube icon and option to Social Icons Widgets
+	- Autoplay issue fixed - when using Youtube and Featured Images, the image no longer takes control over Video
+
+21.01.2014 - ver 4.0.10.8
+	- updated Breadcrumb nav-xt plugin
+	- added archive-product template for woocommerce attribute pages
+
+15.01.2014 - ver. 4.0.10.8
+	- Fixed Testimonials issue
+	- Fixed Related portfolio items
+	- Fixed translation issue on Single Portfolio posts - Project Description
+
+30.12.2013 - ver. 4.0.10.8
+	- Fixed Translation issues!
+
+23.12.2013 - ver. 4.0.10.7
+	- Updated Visual Composer to version 3.7.3
+	- Updated Revolution Slider to version 4.1.1
+	- Updated Layer Slider to version 4.6.6
+	- Fixed Portfolio issue - if portfolio page is set as front page, pagination now works
+	- Fixed tags, now displaying count on blog pages - archives.
