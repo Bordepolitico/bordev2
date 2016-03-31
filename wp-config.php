@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'bordepol_wpborde');
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define('DB_USER', 'bordepol_wpadmin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'B0rd30s4m4');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '/G?.{GNfN14l1R9Jtgqy[^Ey;v*-vI:J|6R1+gHlf)J+kg4a$2BR#vAPg+cmO[t4');
+define('SECURE_AUTH_KEY',  '>S Oi`r0Y|[+Z{BWU0gS9L5|-p+pDV?UUlqGc/-JY2u+,JFw@>Pgv8SvW]qmwc8y');
+define('LOGGED_IN_KEY',    'PM15XymQ4zS?#rRg$3rEt#[a~~Dp3|YPFHdc}Q16-rE;!de-rxrMOMLx.}TMGqt|');
+define('NONCE_KEY',        'a|eYh[W:iBU#&j;eA4iD4mP|U`NuUzMqDdlbBN@yl>/aKz~ (oc#eV2C8avt._`/');
+define('AUTH_SALT',        'Hddxyg|;pi-^bj1B[Ky}K7rs(djV2%TJ%cDaXALCkdO.?T$|S%V9Udk)Up*1ttyY');
+define('SECURE_AUTH_SALT', 'J+m+m`E>o$Ey0zH0+Zo8xB`cZ`mkmkSHFz;7e8VH}_csiG[Sq#j`ir* LlALJw`n');
+define('LOGGED_IN_SALT',   '|[_?o?|,)FGs?9H<b-8v|bhIGq()6%fnR|X!mjE|T9Xo7ZlE>3MBu6=I5PH*$*x|');
+define('NONCE_SALT',       '1+H#fu$rJ/)GpHh*Hi+n:/Z+N6$j2m*++<oG:CCN#C/?l b[}};:8Deb,SvQ//_8');
 
 /**#@-*/
 
@@ -87,3 +87,4 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
