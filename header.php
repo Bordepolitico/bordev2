@@ -42,5 +42,5 @@
 
 <div id="global" layout="row" flex="100" layout-wrap>
 <div id="enlaces" ng-show="menu">
-<?php include($_SERVER["DOCUMENT_ROOT"]."/bordef/bordev2/global/enlaces.php") ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/global/enlaces.php") ?>
 </div>
