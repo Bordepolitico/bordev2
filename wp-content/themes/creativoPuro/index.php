@@ -2,7 +2,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/global/menu.php") ?>
 <div id="home" ng-controller="homeController" flex layout="row" layout-align="start center" layout-wrap>
 <?php
-        echo do_shortcode('[ess_grid alias="BP01"]');
+        //echo do_shortcode('[ess_grid alias="BP01"]');
 ?>
 	<!-- <div id="slider-home" class="home-cont" flex="100">
 		<div class="item" flex="100" layout="row" layout-wrap>
