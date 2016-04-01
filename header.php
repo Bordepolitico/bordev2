@@ -13,6 +13,7 @@
 	<link rel="stylesheet" href="css/owl.transitions.css">
  	<link rel="stylesheet" href="css/style.css">
  	<link rel="stylesheet" href="css/main.css">
+ 	<?php wp_head() ?>
 </head>
 <body ng-cloak>
 <?php $footer = 'white'; ?>

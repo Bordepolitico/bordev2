@@ -1,6 +1,5 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/header.php") ?>
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/global/menu.php") ?>
-<?php wp_head() ?>
 <div id="home" ng-controller="homeController" flex layout="row" layout-align="start center" layout-wrap>
 <?php
         echo do_shortcode('[ess_grid alias="BP01"]');
@@ -457,6 +456,5 @@
 	</div>
 </div>
 <div flex="100">
-<?php wp_footer() ?>
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/footer.php") ?>
 </div>
