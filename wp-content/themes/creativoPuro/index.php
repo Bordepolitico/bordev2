@@ -1,6 +1,5 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/header.php") ?>
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/global/menu.php") ?>
-<?php echo $_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/header.php" ?>
 <div id="home" ng-controller="homeController" flex layout="row" layout-align="start center" layout-wrap>
 	<div id="slider-home" class="home-cont" flex="100">
 		<div class="item" flex="100" layout="row" layout-wrap>
