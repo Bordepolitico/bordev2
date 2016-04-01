@@ -1,5 +1,5 @@
-<?php include("../../../header.php") ?>
-<?php include("../../../global/menu.php") ?>
+<?php include(get_template_directory()."../../../header.php") ?>
+<?php include(get_template_directory()."../../../global/menu.php") ?>
 <div id="home" ng-controller="homeController" flex layout="row" layout-align="start center" layout-wrap>
 	<div id="slider-home" class="home-cont" flex="100">
 		<div class="item" flex="100" layout="row" layout-wrap>
@@ -453,5 +453,5 @@
 	</div>
 </div>
 <div flex="100">
-<?php include("../../../footer.php") ?>
+<?php include(get_template_directory()."../../../footer.php") ?>
 </div>
