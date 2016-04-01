@@ -1,7 +1,10 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/header.php") ?>
 <?php include($_SERVER['DOCUMENT_ROOT'] ."/bordef/bordev2/global/menu.php") ?>
 <div id="home" ng-controller="homeController" flex layout="row" layout-align="start center" layout-wrap>
-	<div id="slider-home" class="home-cont" flex="100">
+<?php
+        echo do_shortcode('[ess_grid alias="BP01"]');
+?>
+	<!-- <div id="slider-home" class="home-cont" flex="100">
 		<div class="item" flex="100" layout="row" layout-wrap>
 			<div class="home-cont-boxes" layout="row" layout-align="center center" layout-wrap flex-gt-md="50" flex="100">
 				<div layout="row" layout-align="start end" class="home-cont-boxes-box grande" flex="100" style="background: url(img/carta.jpg);">
@@ -44,7 +47,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div id="notas" flex="100" layout="row" layout-wrap>
 		<div class="notas-header" flex="100" layout="row" layout-wrap>
 			<div flex-sm='100' class="notas-header-cont notas"><strong>Notas</strong></div>
